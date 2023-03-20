@@ -1,6 +1,8 @@
 ## DIU - Practica1, entregables
 
-
+- DIU1_03_70enbanca
+- Ismael Díaz Díaz y Jordi Pereira Gil.
+- github.com/MiixZ/DIU
 
 
 - Desk research: Análisis Competencia 
