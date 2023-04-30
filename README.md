@@ -1,15 +1,15 @@
 # DIU23
-Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Tablao Flamenco ) 
 
 Grupo: DIU1_03_70enbanca.  Curso: 2022/23 
 Updated: 20/03/2023
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Banca Flamenco 
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> Nuestra idea es querer llevar el flamenco más allá de las limitaciones que había establecidas hasta ahora para este arte tan bonito; queremos diseñar una web que pueda llegar a la mayor cantidad de personas posibles, ofreciendo clases, hightlights, etc.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
