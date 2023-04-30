@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:   Ismael Díaz Díaz     :octocat:     
+ * :bust_in_silhouette:  Jordi Pereira Gil     :octocat:
 
 ----- 
 
@@ -32,18 +32,19 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas (150-300 caracteres) 
+>>> Hemos elegido centrarnos en diferentes páginas que ofrezcan servicios para asistir a espectáculos de Tablao Flamenco en Granada, comparando entre ellas diferentes aspectos y así poder llegar en primera instancia a una conclusión con la que podamos trabajar, de cara a ver cómo y dónde centrarnos a la hora de diseñar la nuestra propia. Las diferentes páginas que hemos elegido son las que creemos líderes en el sector, por lo que es un plus a la hora de analizarlas. (Véase p1/CompetitiveAnalysis).
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Hemos escogido a María Hashimoto, una nativa española con ascendencia japonesa que nunca se ha sentido interesada por el flamenco.
+>>> También hemos escogido a Christian Giggs, un filósofo británico al que le gusta expandir sus conocimientos. 
+>>> (Véase p1/Users)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Hemos escogido la misma experiencia para ambos (comprar entradas), vistas desde una perspectiva y motivo distintos, pues es lo más habitual que un usuario podría hacer a la hora de comprar las entradas para un espectáculo en una página como la nuestra. (Véase p1/Users)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
@@ -61,7 +62,7 @@ Miembros
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+>>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior.
 
 
  Interesante | Críticas     
