@@ -43,13 +43,15 @@ Miembros
 >>> ![image](https://user-images.githubusercontent.com/43982334/235656424-0b5bc9ce-b74d-4ba8-ad72-787ea1432f0e.png)
 
 >>> También hemos escogido a Christian Giggs, un filósofo británico al que le gusta expandir sus conocimientos.
->>> ![image](https://user-images.githubusercontent.com/43982334/235656233-95b8bd6a-9bec-4c47-8f1a-e610506dcee9.png)
+>>> ![image](https://user-images.githubusercontent.com/43982334/235656862-61dfbd0f-f4da-4e08-96af-98ed149611fd.png)
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>> Hemos escogido la misma experiencia para ambos (comprar entradas), vistas desde una perspectiva y motivo distintos, pues es lo más habitual que un usuario podría hacer a la hora de comprar las entradas para un espectáculo en una página como la nuestra. (Véase p1/Users)
+>>> Hemos escogido la misma experiencia para ambos (comprar entradas), vistas desde una perspectiva y motivo distintos, pues es lo más habitual que un usuario podría hacer a la hora de comprar las entradas para un espectáculo en una página como la nuestra.
+
+
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
