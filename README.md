@@ -53,7 +53,7 @@ Miembros
 >>> Cristian: 
 >>> ![image](https://user-images.githubusercontent.com/43982334/235657217-5a258b6d-3365-4a7f-98c3-edd0ea8d45b0.png)
 >>> María:
->>> ![image](https://user-images.githubusercontent.com/43982334/235657318-0196a546-cd62-43df-972f-3b11462c2ba2.png)
+>>> ![image](https://user-images.githubusercontent.com/43982334/235657644-b3ed6796-1acd-4e03-8c62-18a80d699ee8.png)
 
 
 
