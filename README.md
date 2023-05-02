@@ -50,6 +50,12 @@ Miembros
 ----
 
 >>> Hemos escogido la misma experiencia para ambos (comprar entradas), vistas desde una perspectiva y motivo distintos, pues es lo más habitual que un usuario podría hacer a la hora de comprar las entradas para un espectáculo en una página como la nuestra.
+>>> Cristian: 
+>>> ![image](https://user-images.githubusercontent.com/43982334/235657217-5a258b6d-3365-4a7f-98c3-edd0ea8d45b0.png)
+>>> María:
+>>> ![image](https://user-images.githubusercontent.com/43982334/235657318-0196a546-cd62-43df-972f-3b11462c2ba2.png)
+
+
 
 
 
