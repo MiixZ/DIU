@@ -33,6 +33,8 @@ Miembros
 -----
 
 >>> Hemos elegido centrarnos en diferentes páginas que ofrezcan servicios para asistir a espectáculos de Tablao Flamenco en Granada, comparando entre ellas diferentes aspectos y así poder llegar en primera instancia a una conclusión con la que podamos trabajar, de cara a ver cómo y dónde centrarnos a la hora de diseñar la nuestra propia. Las diferentes páginas que hemos elegido son las que creemos líderes en el sector, por lo que es un plus a la hora de analizarlas. (Véase p1/CompetitiveAnalysis).
+>>> ![image](https://user-images.githubusercontent.com/43982334/235655754-a9b6bd6b-ae66-4dad-b80d-72e270c1e6d9.png)
+
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
