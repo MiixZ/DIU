@@ -66,7 +66,7 @@ Miembros
 >>> - Enlace al documento:  (sube a github el xls/pdf) 
 >>> - Valoración final (numérica): 
 >>> - Comentario sobre la valoración:  (60-120 caracteres)
->>> (P1/Usability review/Usability\ review\ p1.pdf)
+>>> [(P1/Usability review/Usability\ review\ p1.pdf)](https://github.com/MiixZ/DIU/blob/acdf01415fb9da4a44c786ee8027d9a53bacb0c4/P1/Usability%20review/Usability%20review%20p1.pdf)
 
 
 ## Paso 2. UX Design  
