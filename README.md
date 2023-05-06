@@ -15,8 +15,8 @@ Logotipo:
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
- * :bust_in_silhouette:   Ismael Díaz Díaz     :octocat:     
- * :bust_in_silhouette:  Jordi Pereira Gil     :octocat:
+ * :bust_in_silhouette:   Ismael Díaz Díaz    @MiixZ :octocat:     
+ * :bust_in_silhouette:  Jordi Pereira Gil    @PepeProgramer :octocat:
 
 ----- 
 
@@ -61,8 +61,7 @@ Miembros
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
+>>>  ¿Cómo podemos valorar a modo de clasificación esta página?
 >>> - Enlace al documento:  [(P1/Usability review/Usability\ review\ p1.pdf)](https://github.com/MiixZ/DIU/blob/acdf01415fb9da4a44c786ee8027d9a53bacb0c4/P1/Usability%20review/Usability%20review%20p1.pdf) 
 >>> - Valoración final (numérica): 7
 >>> - Comentario sobre la valoración: 
@@ -71,51 +70,37 @@ Miembros
 ## Paso 2. UX Design  
 
 
-![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid / EMpathy map / POV
-----
-
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior.
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
+![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
+>>> Críticas, propuestas interesantes, preguntas en base a la experiencia y nuevas ideas que puedan surgir en nuestro proyecto.
+>>> ![image](P2/Ideacion/Capture%20Grid.png)
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
+>>> ¿Qué planteas como "propuesta de valor" para un nuevo diseño de aplicación para economía colaborativa?
+>>> Experiencia única de flamenco: Generar deseo en el espectador, entender la cultura del flamenco, compartir opiniones y discutir, poder participar; tenemos que hacer del flamenco algo memorable.
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>> Tenemos que expandir la propuesta de valor descrita anteriormente, de la siguiente manera:
+>>> ![image](P2/propuestaValor/scope_canvas.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
-
+>>> "User Map" es una representación visual del recorrido de un usuario a través de un sistema. "Task Flow" es una secuencia de pasos que un usuario sigue para completar una tarea específica. Ambos ayudan a comprender la experiencia del usuario y mejorar el flujo de trabajo. A continuación, mostraremos una matriz donde se verá la interacción de los usuarios con diferentes tareas:
+>>> ![image](P2/taskAnalysis/Matriz%20tareas-usuarios.png)
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
-----
 
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+>>> En cuanto al labelling y al site map: 
+>>> ![image](P2/ArquitecturaInformacion/Labelling.png)
+>>> ![image](P2/ArquitecturaInformacion/sitemap.jpg)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
-
+>>> Este es el diseño general de la estructura de la visión en un dispositivo móvil:
+>>> ![image](P2/Lo-Fi/bocetos.jpg)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
