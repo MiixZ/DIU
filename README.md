@@ -119,14 +119,14 @@ De una forma artística y llegadera, utilizando los clásicos y tradicionales co
 
 Siguiendo la documentación de diferentes Guidelines y Patrones IU para el diseño acorde con https://getbootstrap.com, aquí proponemos tres componentes más comunes que vayamos a usar en nuestras páginas.
 
-# CAROUSEL (https://getbootstrap.com/docs/5.3/components/carousel/)
+## CAROUSEL (https://getbootstrap.com/docs/5.3/components/carousel/)
 El carrusel es una presentación de diapositivas para recorrer una serie de contenido, creado con transformaciones CSS 3D y un poco de JavaScript. Funciona con una serie de imágenes, texto o marcas personalizadas. También incluye soporte para controles e indicadores anteriores/siguientes.
 Usaremos el mismo diseño que el descrito en el enlace porque se asemeja a la perfección a lo que queremos usar a la hora de mostrar la galería de momentos destacados.
 
-# NAVBAR (https://getbootstrap.com/docs/5.3/components/navbar/)
+## NAVBAR (https://getbootstrap.com/docs/5.3/components/navbar/)
 Será necesaria para encontrar las opciones de navegación a lo largo de nuestra página. Usaremos el mismo diseño que el descrito en el enlace, de forma que es una manera de hacerlo simple y efectiva.
 
-# DROPDOWN (https://getbootstrap.com/docs/5.3/components/dropdowns/)
+## DROPDOWN (https://getbootstrap.com/docs/5.3/components/dropdowns/)
 Lo usaremos para poder elegir los idiomas en los que nuestra página estará disponible. Utilizando un dropdown, la adición de nuevas peticiones de lenguaje de nuestros usuarios será más sencilla y menos molesta a la vista. 
 Además de los idiomas, el dropdown estará presente en varias secciones a lo largo de la página de manera que servirá a modo de apoyo para poder seleccionar diferentes opciones. Por ejemplo, en la sección "Sobre Nosotros", poder elegir entre las diferentes redes sociales, o bien en la sección "Galería" poder elegir entre clases o espectáculos.
 
