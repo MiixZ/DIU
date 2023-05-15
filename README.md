@@ -11,7 +11,7 @@ Updated: 15/05/2023
 Nuestra idea es querer llevar el flamenco más allá de las limitaciones que había establecidas hasta ahora para este arte tan bonito; queremos diseñar una web que pueda llegar a la mayor cantidad de personas posibles, ofreciendo clases, hightlights, etc.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![logotipo](P3/logotipo.png) 
 
 Miembros
  * :bust_in_silhouette:   Ismael Díaz Díaz    @MiixZ :octocat:     
