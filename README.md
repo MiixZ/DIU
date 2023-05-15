@@ -2,14 +2,13 @@
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Tablao Flamenco ) 
 
 Grupo: DIU1_03_70enbanca.  Curso: 2022/23 
-Updated: 20/03/2023
+Updated: 15/05/2023
 
-Proyecto: 
->>> Banca Flamenco 
+<h1> Banca Flamenco </h1>
 
-Descripción: 
+<h2> Descripción: </h2>
 
->>> Nuestra idea es querer llevar el flamenco más allá de las limitaciones que había establecidas hasta ahora para este arte tan bonito; queremos diseñar una web que pueda llegar a la mayor cantidad de personas posibles, ofreciendo clases, hightlights, etc.
+Nuestra idea es querer llevar el flamenco más allá de las limitaciones que había establecidas hasta ahora para este arte tan bonito; queremos diseñar una web que pueda llegar a la mayor cantidad de personas posibles, ofreciendo clases, hightlights, etc.
 
 Logotipo: 
 >>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
@@ -21,10 +20,6 @@ Miembros
 ----- 
 
 
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
-
 # Proceso de Diseño 
 
 ## Paso 1. UX Desk Research & Analisis 
@@ -32,28 +27,29 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Hemos elegido centrarnos en diferentes páginas que ofrezcan servicios para asistir a espectáculos de Tablao Flamenco en Granada, comparando entre ellas diferentes aspectos y así poder llegar en primera instancia a una conclusión con la que podamos trabajar, de cara a ver cómo y dónde centrarnos a la hora de diseñar la nuestra propia. Las diferentes páginas que hemos elegido son las que creemos líderes en el sector, por lo que es un plus a la hora de analizarlas. (Véase p1/CompetitiveAnalysis).
->>> ![image](https://user-images.githubusercontent.com/43982334/235655754-a9b6bd6b-ae66-4dad-b80d-72e270c1e6d9.png)
+Hemos elegido centrarnos en diferentes páginas que ofrezcan servicios para asistir a espectáculos de Tablao Flamenco en Granada, comparando entre ellas diferentes aspectos y así poder llegar en primera instancia a una conclusión con la que podamos trabajar, de cara a ver cómo y dónde centrarnos a la hora de diseñar la nuestra propia. Las diferentes páginas que hemos elegido son las que creemos líderes en el sector, por lo que es un plus a la hora de analizarlas. (Véase p1/CompetitiveAnalysis).
+![image](https://user-images.githubusercontent.com/43982334/235655754-a9b6bd6b-ae66-4dad-b80d-72e270c1e6d9.png)
 
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Hemos escogido a María Hashimoto, una nativa española con ascendencia japonesa que nunca se ha sentido interesada por el flamenco.
->>> ![image](https://user-images.githubusercontent.com/43982334/235656424-0b5bc9ce-b74d-4ba8-ad72-787ea1432f0e.png)
+Hemos escogido a María Hashimoto, una nativa española con ascendencia japonesa que nunca se ha sentido interesada por el flamenco.
+![image](https://user-images.githubusercontent.com/43982334/235656424-0b5bc9ce-b74d-4ba8-ad72-787ea1432f0e.png)
 
->>> También hemos escogido a Christian Giggs, un filósofo británico al que le gusta expandir sus conocimientos.
->>> ![image](https://user-images.githubusercontent.com/43982334/235656862-61dfbd0f-f4da-4e08-96af-98ed149611fd.png)
+También hemos escogido a Christian Giggs, un filósofo británico al que le gusta expandir sus conocimientos.
+![image](https://user-images.githubusercontent.com/43982334/235656862-61dfbd0f-f4da-4e08-96af-98ed149611fd.png)
 
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
 
->>> Hemos escogido la misma experiencia para ambos (comprar entradas), vistas desde una perspectiva y motivo distintos, pues es lo más habitual que un usuario podría hacer a la hora de comprar las entradas para un espectáculo en una página como la nuestra.
->>> Cristian: 
->>> ![image](https://user-images.githubusercontent.com/43982334/235657217-5a258b6d-3365-4a7f-98c3-edd0ea8d45b0.png)
->>> María:
->>> ![image](https://user-images.githubusercontent.com/43982334/235658023-3c43488b-1f50-4b88-998c-29c9b946d298.png)
+Hemos escogido la misma experiencia para ambos (comprar entradas), vistas desde una perspectiva y motivo distintos, pues es lo más habitual que un usuario podría hacer a la hora de comprar las entradas para un espectáculo en una página como la nuestra.
+
+## Cristian: 
+![image](https://user-images.githubusercontent.com/43982334/235657217-5a258b6d-3365-4a7f-98c3-edd0ea8d45b0.png)
+## María:
+![image](https://user-images.githubusercontent.com/43982334/235658023-3c43488b-1f50-4b88-998c-29c9b946d298.png)
 
 
 
@@ -61,46 +57,45 @@ Miembros
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>>  ¿Cómo podemos valorar a modo de clasificación esta página?
->>> - Enlace al documento:  [(P1/Usability review/Usability\ review\ p1.pdf)](https://github.com/MiixZ/DIU/blob/acdf01415fb9da4a44c786ee8027d9a53bacb0c4/P1/Usability%20review/Usability%20review%20p1.pdf) 
->>> - Valoración final (numérica): 7
->>> - Comentario sobre la valoración: 
+¿Cómo podemos valorar a modo de clasificación esta página?
+ - Enlace al documento:  [(P1/Usability review/Usability\ review\ p1.pdf)](https://github.com/MiixZ/DIU/blob/acdf01415fb9da4a44c786ee8027d9a53bacb0c4/P1/Usability%20review/Usability%20review%20p1.pdf) 
+ - Valoración final (numérica): 7
+ - Comentario sobre la valoración: 
 
 
 ## Paso 2. UX Design  
 
-
 ![Método UX](img/feedback-capture-grid.png) 2.a Feedback Capture Grid
->>> Críticas, propuestas interesantes, preguntas en base a la experiencia y nuevas ideas que puedan surgir en nuestro proyecto.
->>> ![image](P2/Ideacion/Capture%20Grid.png)
+Críticas, propuestas interesantes, preguntas en base a la experiencia y nuevas ideas que puedan surgir en nuestro proyecto.
+![image](P2/Ideacion/Capture%20Grid.png)
     
->>> ¿Qué planteas como "propuesta de valor" para un nuevo diseño de aplicación para economía colaborativa?
->>> Experiencia única de flamenco: Generar deseo en el espectador, entender la cultura del flamenco, compartir opiniones y discutir, poder participar; tenemos que hacer del flamenco algo memorable.
+¿Qué planteas como "propuesta de valor" para un nuevo diseño de aplicación para economía colaborativa?
+Experiencia única de flamenco: Generar deseo en el espectador, entender la cultura del flamenco, compartir opiniones y discutir, poder participar; tenemos que hacer del flamenco algo memorable.
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Tenemos que expandir la propuesta de valor descrita anteriormente, de la siguiente manera:
->>> ![image](P2/propuestaValor/scope_canvas.png)
+Tenemos que expandir la propuesta de valor descrita anteriormente, de la siguiente manera:
+![image](P2/propuestaValor/scope_canvas.png)
 
 ![Método UX](img/Sitemap.png) 2.b Tasks analysis 
 -----
 
->>> "User Map" es una representación visual del recorrido de un usuario a través de un sistema. "Task Flow" es una secuencia de pasos que un usuario sigue para completar una tarea específica. Ambos ayudan a comprender la experiencia del usuario y mejorar el flujo de trabajo. A continuación, mostraremos una matriz donde se verá la interacción de los usuarios con diferentes tareas:
->>> ![image](P2/taskAnalysis/Matriz%20tareas-usuarios.png)
+"User Map" es una representación visual del recorrido de un usuario a través de un sistema. "Task Flow" es una secuencia de pasos que un usuario sigue para completar una tarea específica. Ambos ayudan a comprender la experiencia del usuario y mejorar el flujo de trabajo. A continuación, mostraremos una matriz donde se verá la interacción de los usuarios con diferentes tareas:
+![image](P2/taskAnalysis/Matriz%20tareas-usuarios.png)
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 
->>> En cuanto al labelling y al site map: 
->>> ![image](P2/ArquitecturaInformacion/Labelling.png)
->>> ![image](P2/ArquitecturaInformacion/sitemap.jpg)
+En cuanto al labelling y al site map: 
+![image](P2/ArquitecturaInformacion/Labelling.png)
+![image](P2/ArquitecturaInformacion/sitemap.jpg)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Este es el diseño general de la estructura de la visión en un dispositivo móvil:
->>> ![image](P2/Lo-Fi/bocetos.jpg)
+Este es el diseño general de la estructura de la visión en un dispositivo móvil:
+![image](P2/Lo-Fi/bocetos.jpg)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
@@ -108,28 +103,36 @@ Miembros
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
 
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+![MoodBoard](P3/Moodboard.jpg)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+De una forma artística y llegadera, utilizando los clásicos y tradicionales colores del flamenco y siguiendo la anterior moodboard:
+![Landing_Page](P3/landing_page.png)
 
->>> Plantear Landing Page 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+Siguiendo la documentación de diferentes Guidelines y Patrones IU para el diseño acorde con https://getbootstrap.com, aquí proponemos tres componentes más comunes que vayamos a usar en nuestras páginas.
+
+# CAROUSEL (https://getbootstrap.com/docs/5.3/components/carousel/)
+El carrusel es una presentación de diapositivas para recorrer una serie de contenido, creado con transformaciones CSS 3D y un poco de JavaScript. Funciona con una serie de imágenes, texto o marcas personalizadas. También incluye soporte para controles e indicadores anteriores/siguientes.
+Usaremos el mismo diseño que el descrito en el enlace porque se asemeja a la perfección a lo que queremos usar a la hora de mostrar la galería de momentos destacados.
+
+# NAVBAR (https://getbootstrap.com/docs/5.3/components/navbar/)
+Será necesaria para encontrar las opciones de navegación a lo largo de nuestra página. Usaremos el mismo diseño que el descrito en el enlace, de forma que es una manera de hacerlo simple y efectiva.
+
+# DROPDOWN (https://getbootstrap.com/docs/5.3/components/dropdowns/)
+Lo usaremos para poder elegir los idiomas en los que nuestra página estará disponible. Utilizando un dropdown, la adición de nuevas peticiones de lenguaje de nuestros usuarios será más sencilla y menos molesta a la vista. 
+Además de los idiomas, el dropdown estará presente en varias secciones a lo largo de la página de manera que servirá a modo de apoyo para poder seleccionar diferentes opciones. Por ejemplo, en la sección "Sobre Nosotros", poder elegir entre las diferentes redes sociales, o bien en la sección "Galería" poder elegir entre clases o espectáculos.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>> Layout: Mockup / prototipo HTML (que permita simular tareas con estilo de IU seleccionado)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
