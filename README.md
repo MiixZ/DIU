@@ -138,9 +138,9 @@ Además de los idiomas, el dropdown estará presente en varias secciones a lo la
 
 ![Método UX](img/caseStudy.png) 3.e My UX-Case Study
 
-![VIDEO_DEMO](P3/video.png)
-https://drive.google.com/file/d/1Jmk0Znn88pnOIDeCdusv1tpe_mN4nA45/view?usp=sharing
+He aquí una demo de forma visual y práctica de nuestro prototipo.
 
+https://github.com/MiixZ/DIU/assets/76443984/98cc978f-8115-42d0-acd2-7aa53cb09414
 
 ## Paso 4. Evaluación 
 
