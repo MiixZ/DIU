@@ -136,12 +136,10 @@ Además de los idiomas, el dropdown estará presente en varias secciones a lo la
 >>> Layout: Mockup / prototipo HTML (que permita simular tareas con estilo de IU seleccionado)
 
 
-![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
------
+![Método UX](img/caseStudy.png) 3.e My UX-Case Study
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+![VIDEO_DEMO](P3/video.png)
+https://drive.google.com/file/d/1Jmk0Znn88pnOIDeCdusv1tpe_mN4nA45/view?usp=sharing
 
 
 ## Paso 4. Evaluación 
