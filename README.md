@@ -119,6 +119,10 @@ De una forma artística y llegadera, utilizando los clásicos y tradicionales co
 
 Enlace al documento donde especificamos las guidelines de nuestro proyecto: [Guidelines](P3/Guidelines.pdf)
 
+![Guidelines_page-0001](https://github.com/MiixZ/DIU/assets/43982334/cb68b659-4ec6-47b2-a546-f3434111b386)
+![Guidelines_page-0002](https://github.com/MiixZ/DIU/assets/43982334/9d068c8a-11bf-44ad-9ab5-7353bacc5726)
+
+
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
