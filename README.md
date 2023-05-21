@@ -124,6 +124,10 @@ Enlace al documento donde especificamos las guidelines de nuestro proyecto: [Gui
 
 >>> Layout: Mockup / prototipo HTML (que permita simular tareas con estilo de IU seleccionado)
 
+>>> ![página_inicio](P3/mockups/Layout%20Hi-Fi_1.jpg)
+>>> ![página_pago](P3/mockups/Layout%20Hi-Fi_2.jpg)
+>>> ![página_galería](P3/mockups/Layout%20Hi-Fi_3.jpg)
+
 
 ![Método UX](img/caseStudy.png) 3.e My UX-Case Study
 
