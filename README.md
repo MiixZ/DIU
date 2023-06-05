@@ -177,8 +177,6 @@ Un enlace directo: https://github.com/MiixZ/DIU/blob/master/P4/P4_UsabReport_Unl
 
 ## Conclusión final / Valoración de las prácticas
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos.
-
 La práctica que hemos experimentado resulta entretenida y nos permite obtener una perspectiva distinta de la informática. En este ámbito, no todo se reduce a programar en bajo y alto nivel, ya que eso se limitaría a un grupo reducido de programadores. El propósito de este mundo tecnológico va más allá. Buscamos trascender, explorar nuevas posibilidades y desafiar los límites establecidos. No se trata únicamente de dominar un lenguaje de programación, sino de comprender la influencia de la tecnología en nuestra sociedad y cómo podemos utilizarla de manera creativa para impulsar el progreso y mejorar la vida de las personas. Esto también incluye a personas con ciertos problemas o discapacidades, que se recogen en el ámbito de la accesibilidad, punto también muy importante que hemos estudiado.
 
 
