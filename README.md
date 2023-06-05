@@ -146,64 +146,40 @@ https://github.com/MiixZ/DIU/assets/76443984/98cc978f-8115-42d0-acd2-7aa53cb0941
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Nos ha tocado evaluar al grupo "DIU2.LosEvarers", que han realizado la página Unlock Granada, orientada al turismo y conocer la cultura de la ciudad de una forma interactiva y entretenida. Evaluaremos su forma de diseñarla y llevar a cabo su funcionalidad, testeando principalmente cómo de accesible es para tipos concretos de personas.
+
+De forma equivalente, evaluaremos también nuestro site, siendo nuestro prototipo el llamado "A", y el asignado el llamado "B".
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+Estas serán las personas ficticias que probarán los sites:
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+![image](https://github.com/MiixZ/DIU/assets/76443984/47259656-f6a2-4fe3-98b8-c5ef2de6dbb3)
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
+Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados siguiendo las pautas para usar la escala SUS e interpretar los resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+![image](https://github.com/MiixZ/DIU/assets/76443984/fd3eea17-591f-4763-8d2d-9d094e17ffd2)
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
-
-
->>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
-
-
->>> ![Método UX](img/Accesibility.png)  5.a Accesibility evaluation Report 
->>>> ----
-
->>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
-
->>> 5.a) Evaluación de la Accesibilidad (con simuladores o verificación de WACG) 
->>> 5.b) Uso de simuladores de accesibilidad 
-
->>> (uso de tabla de datos, indicar herramientas usadas) 
-
->>> 5.c Breve resumen del estudio de accesibilidad (de práctica 1) y puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño propuesto en Práctica 4.
-
+El usability report en cuestión está ubicado en el directorio P4/P4_UsabReport_UnlockGranada_doneby_DIU2.LosEvarers_DIU1.03_70enbanca.pdf
+Un enlace directo: https://github.com/MiixZ/DIU/blob/master/P4/P4_UsabReport_UnlockGranada_doneby_DIU2.LosEvarers_DIU1.03_70enbanca.pdf
 
 
 ## Conclusión final / Valoración de las prácticas
 
+>>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos.
 
->>> (90-150 palabras) Opinión del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+La práctica que hemos experimentado resulta entretenida y nos permite obtener una perspectiva distinta de la informática. En este ámbito, no todo se reduce a programar en bajo y alto nivel, ya que eso se limitaría a un grupo reducido de programadores. El propósito de este mundo tecnológico va más allá. Buscamos trascender, explorar nuevas posibilidades y desafiar los límites establecidos. No se trata únicamente de dominar un lenguaje de programación, sino de comprender la influencia de la tecnología en nuestra sociedad y cómo podemos utilizarla de manera creativa para impulsar el progreso y mejorar la vida de las personas. Esto también incluye a personas con ciertos problemas o discapacidades, que se recogen en el ámbito de la accesibilidad, punto también muy importante que hemos estudiado.
 
 
 
